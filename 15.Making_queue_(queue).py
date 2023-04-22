@@ -3,7 +3,7 @@ import collections
 q = collections.deque()
 print('Пустая очередь', q)
 
-# Добавляем элементы в очеред(в конец очереди)
+# Добавляем элементы в очередь(в конец очереди)
 q.append(1)
 q.append(2)
 q.append(3)
